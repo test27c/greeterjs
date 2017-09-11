@@ -1,0 +1,26 @@
+{
+  "name": "greeterjs",
+  "version": "1.0.0",
+  "description": "Mini language library for says formal and informal 'greetings' in many (40) languages",
+  "main": "src/greeter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/test27c/greeterjs.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Yohanes Setiawan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/test27c/greeterjs/issues"
+  },
+  "homepage": "https://github.com/test27c/greeterjs#readme",
+  "dependencies": {
+    "greeterjs": "^1.0.0",
+    "jquery": "^3.2.1"
+  }
+}
